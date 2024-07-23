@@ -1,6 +1,9 @@
 ---
 layout: cv
 title: Joe Olsen's Résumé
+format:
+  html:
+    embed-resources: true
 ---
 # Joe Olsen
 Web Developer, Software Engineer, Data Analyst
@@ -50,10 +53,6 @@ __Digital Animation Artist - Victor Valley College__
 
 ## Occupation
 
-`2024`
+`2024` __Web Engineer__ - FamilySearch
 
-__Web Engineer__ - FamilySearch
-
-`2020 - 2023`
-
-__Operations Coordinator__ - FedEx Ground
+`2020 - 2023` __Operations Coordinator__ - FedEx Ground
